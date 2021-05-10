@@ -1,54 +1,16 @@
 # Starting compiling UnityEngine.TestRunner.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8e038ac18b6212582b5b79c1a7775778
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-63ae3ebb3d5733bbead64f16aff4273e
 # Starting compiling UnityEngine.UI.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c08370ad211df965696c607fb21b4ebd
-# Starting compiling UnityEditor.TestRunner.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-30530c838446f7097a6388154d8bb1fa
-# Starting compiling UnityEditor.UI.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-918ea469cb38c7dfabba55dec537aff9
-# Starting compiling Unity.InternalAPIEditorBridgeDev.001.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a9a413e538349474bac3507040fc92b4
-# Starting compiling Unity.VSCode.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-169389f9a4420c29d96ba0cb73f1e59b
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8fbb4674a23c9d762ab4285a7bdcef4d
 # Starting compiling Unity.Postprocessing.Runtime.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c4a6357e890e2247f98037d912b1d94d
-# Starting compiling UnityEditor.InteractiveTutorialsFramework.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4fa00e8a05915abcb83c39ecb2d8be2f
-# Starting compiling Unity.VisualStudio.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-82e84fa5fb37879b08275a9ea0839874
-# Starting compiling Unity.Settings.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d1b72f9b7120d63c88b5c91099a7bdf0
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-674e58402ded03961988627c51722b4c
 # Starting compiling Unity.Timeline.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ce2cbd52af10d0e88a94cad6679f779b
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1adcf3fead85610098e3383f3252c56a
 # Starting compiling Unity.TextMeshPro.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6108042457b54a4a085a84ba65542fda
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c86af17bd38ed750dabe2efefceb0d8a
 # Starting compiling Cinemachine.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ec024fbe631bd0d62b9738381e4446cb
-# Starting compiling Unity.TextMeshPro.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3f1fcd6ff1a6856ff87da8e6375d750f
-# Starting compiling Unity.Timeline.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3e1f511ec477824d9a0f22ce3dc5092a
-# Starting compiling Unity.CollabProxy.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b8b344ce853a14b71a5bb1085f71d40a
-# Starting compiling Unity.Postprocessing.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-418f81d6c8dc53b16b7ccd6472286ee8
-# Starting compiling Unity.Rider.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7b314942403e8719aa76931305c247b8
-# Starting compiling com.unity.cinemachine.editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-22f99ff0a1d3fc95eb70333a469af098
-# Starting compiling Unity.EditorCoroutines.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8e73cca4644fbca66920cf154c5cc45a
-# Starting compiling Unity.Play.Publisher.Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2f5d41e82b9684bbfb0251a0c16a4b9c
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f9641b2e4f66768069f5420fb51af2dd
 # Starting compiling Unity.InteractiveTutorials.Core.Scripts.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d914721e2f1aad91eac6f6ab979b786d
-# Starting compiling Unity.2DPlatformer.Tutorials.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d91277d00f4ce61cfacc3a003b1f40be
-# Starting compiling Unity.InteractiveTutorials.Core.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-78e5bcf5ac85538e7973de6f0d9c8aa3
-# Starting compiling Unity.Platformer.Tutorials.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-467929f345b632d78a8bfe2ec6b057e9
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fd182c5b55101a688b02da45f867824f
 # Starting compiling Assembly-CSharp.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-17687f5305238e35dbaed5cc1f6b54af
-# Starting compiling Assembly-CSharp-Editor.dll
-/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6c368037545a0616695ad42409168659
+/home/runesmaker/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-cadd54558f5d06bdc8281f6e31c0ad15
